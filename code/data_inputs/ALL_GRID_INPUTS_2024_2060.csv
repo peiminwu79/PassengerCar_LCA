@@ -1,0 +1,186 @@
+region,year,average_gco2eq_per_kwh,marginal_or_om_proxy_gco2eq_per_kwh,source_vintage,status,model_endpoint,note
+SH,2024,470.1,778.2,2024 Shanghai official CI and 2024 project OM,2024_OFFICIAL_AVG_PLUS_OM_PROXY,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2025,452.788462,749.54261,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2026,435.476923,720.885219,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2027,418.165385,692.227829,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2028,400.853846,663.570438,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2029,383.542308,634.913048,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2030,366.230769,606.255658,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2031,348.919231,577.598267,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2032,331.607692,548.940877,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2033,314.296154,520.283486,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2034,296.984615,491.626096,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2035,279.673077,462.968706,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2036,262.361538,434.311315,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2037,245.05,405.653925,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2038,227.738462,376.996534,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2039,210.426923,348.339144,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2040,193.115385,319.681753,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2041,175.803846,291.024363,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2042,158.492308,262.366973,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2043,141.180769,233.709582,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2044,123.869231,205.052192,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2045,106.557692,176.394801,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2046,89.246154,147.737411,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2047,71.934615,119.080021,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2048,54.623077,90.42263,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2049,37.311538,61.76524,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2050,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2051,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2052,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2053,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2054,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2055,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2056,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2057,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2058,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2059,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+SH,2060,20.0,33.107849,2024 Shanghai official CI and 2024 project OM,2025_2060_ASSUMED_LINEAR_REFERENCE,2050=20 g CO2/kWh,OM reflects historical dispatch proxy not metered incremental EV power
+NYCW,2024,392.694873,443.613338,EPA eGRID2023 rev2 - proxy for 2024,2023_OFFICIAL_EGRID_USED_AS_2024_PROXY,2040 endpoint,Official eGRID2023 Rev2; NO EPA eGRID2024 is currently posted. Grid generation only; not WTP.
+NYCW,2025,368.151443,415.887504,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2026,343.608014,388.161671,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2027,319.064584,360.435837,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2028,294.521155,332.710003,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2029,269.977725,304.98417,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2030,245.434295,277.258336,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2031,220.890866,249.532503,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2032,196.347436,221.806669,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2033,171.804007,194.080835,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2034,147.260577,166.355002,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2035,122.717148,138.629168,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2036,98.173718,110.903334,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2037,73.630289,83.177501,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2038,49.086859,55.451667,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2039,24.54343,27.725834,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2040,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2041,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2042,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2043,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2044,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2045,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2046,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2047,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2048,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2049,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2050,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2051,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2052,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2053,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2054,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2055,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2056,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2057,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2058,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2059,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYCW,2060,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2024,539.472374,598.469773,EPA eGRID2023 rev2 - proxy for 2024,2023_OFFICIAL_EGRID_USED_AS_2024_PROXY,2040 endpoint,Official eGRID2023 Rev2; NO EPA eGRID2024 is currently posted. Grid generation only; not WTP.
+NYLI,2025,505.755351,561.065412,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2026,472.038327,523.661051,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2027,438.321304,486.256691,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2028,404.604281,448.85233,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2029,370.887257,411.447969,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2030,337.170234,374.043608,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2031,303.45321,336.639247,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2032,269.736187,299.234886,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2033,236.019164,261.830526,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2034,202.30214,224.426165,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2035,168.585117,187.021804,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2036,134.868094,149.617443,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2037,101.15107,112.213082,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2038,67.434047,74.808722,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2039,33.717023,37.404361,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2040,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2041,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2042,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2043,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2044,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2045,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2046,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2047,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2048,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2049,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2050,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2051,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2052,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2053,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2054,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2055,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2056,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2057,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2058,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2059,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYLI,2060,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2024,110.121341,413.585523,EPA eGRID2023 rev2 - proxy for 2024,2023_OFFICIAL_EGRID_USED_AS_2024_PROXY,2040 endpoint,Official eGRID2023 Rev2; NO EPA eGRID2024 is currently posted. Grid generation only; not WTP.
+NYUP,2025,103.238757,387.736428,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2026,96.356174,361.887333,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2027,89.47359,336.038237,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2028,82.591006,310.189142,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2029,75.708422,284.340047,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2030,68.825838,258.490952,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2031,61.943254,232.641857,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2032,55.060671,206.792761,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2033,48.178087,180.943666,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2034,41.295503,155.094571,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2035,34.412919,129.245476,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2036,27.530335,103.396381,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2037,20.647751,77.547286,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2038,13.765168,51.69819,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2039,6.882584,25.849095,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2040,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2041,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2042,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2043,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2044,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2045,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2046,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2047,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2048,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2049,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2050,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2051,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2052,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2053,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2054,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2055,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2056,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2057,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2058,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2059,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+NYUP,2060,0.0,0.0,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2040 endpoint,NY CLCPA 2040 direct-zero modelling target (not an empirical EF forecast)
+RFCE,2024,271.77894,535.465793,EPA eGRID2023 rev2 - proxy for 2024,2023_OFFICIAL_EGRID_USED_AS_2024_PROXY,2050 endpoint,Official eGRID2023 Rev2; NO EPA eGRID2024 is currently posted. Grid generation only; not WTP.
+RFCE,2025,262.095135,516.386513,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2026,252.41133,497.307233,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2027,242.727524,478.227952,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2028,233.043719,459.148672,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2029,223.359913,440.069392,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2030,213.676108,420.990112,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2031,203.992303,401.910832,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2032,194.308497,382.831552,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2033,184.624692,363.752272,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2034,174.940886,344.672992,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2035,165.257081,325.593711,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2036,155.573276,306.514431,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2037,145.88947,287.435151,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2038,136.205665,268.355871,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2039,126.521859,249.276591,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2040,116.838054,230.197311,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2041,107.154249,211.118031,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2042,97.470443,192.038751,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2043,87.786638,172.95947,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2044,78.102832,153.88019,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2045,68.419027,134.80091,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2046,58.735222,115.72163,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2047,49.051416,96.64235,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2048,39.367611,77.56307,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2049,29.683805,58.48379,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2050,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2051,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2052,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2053,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2054,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2055,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2056,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2057,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2058,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2059,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."
+RFCE,2060,20.0,39.40451,EPA eGRID2023 rev2 - proxy for 2024,STUDY_LINEAR_POLICY_SCENARIO_NOT_OBSERVED,2050 endpoint,"NJ RFCE/PJM 2050 20 g/kWh modelling endpoint; EO315 is market clean-energy 2035 goal, NOT PJM physical zero."

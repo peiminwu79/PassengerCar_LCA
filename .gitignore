@@ -1,0 +1,15 @@
+# Non-redistributable source downloads
+**/nhgis000*_tract.csv
+**/__MACOSX/
+**/.DS_Store
+**/._*
+# Local outputs and runtime state
+results/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.ipython/
+.pytest_cache/
+*.log
